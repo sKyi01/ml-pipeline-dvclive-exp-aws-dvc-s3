@@ -1,5 +1,17 @@
-2026-02-21 00:24:00,932 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
-2026-02-21 00:24:01,093 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
-2026-02-21 00:24:01,107 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
-2026-02-21 00:24:01,142 - model_evaluation - DEBUG - Model evaluation metrics calculated
-2026-02-21 00:24:01,615 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2026-02-21 00:27:40,097 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-02-21 00:27:40,289 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-21 00:27:40,301 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-21 00:27:40,348 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-21 00:27:41,634 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'H:/MLOPS/ml-pipeline-dvclive-exp-aws-dvc-s3/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2026-02-21 00:28:59,483 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-02-21 00:28:59,693 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-21 00:28:59,701 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-21 00:28:59,731 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-21 00:29:00,744 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'H:/MLOPS/ml-pipeline-dvclive-exp-aws-dvc-s3/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2026-02-21 00:32:47,156 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-02-21 00:32:47,393 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-21 00:32:47,402 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-02-21 00:32:47,438 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-02-21 00:32:48,157 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
